@@ -1,3 +1,3 @@
 Rep-proyects
 ===================
-This is a test reposiory
+This is a test repository
